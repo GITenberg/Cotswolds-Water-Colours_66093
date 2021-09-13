@@ -5,7 +5,12 @@ contributor:
     agent_name: Nicholls, G. F.
     gutenberg_agent_id: '39576'
     url: http://www.gutenberg.org/2009/agents/39576
+covers:
+- cover_type: archival
+  image_path: 66093-h/images/cover.jpg
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/66093#Cotswolds-Water-Colours
 gutenberg_issued: '2021-08-20'
 identifiers:
   gutenberg: '66093'
